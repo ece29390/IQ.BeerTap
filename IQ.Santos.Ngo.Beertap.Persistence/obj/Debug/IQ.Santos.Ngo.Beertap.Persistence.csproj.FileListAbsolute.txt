@@ -1,0 +1,11 @@
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\IQ.Santos.Ngo.Beertap.Persistence.dll
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\IQ.Santos.Ngo.Beertap.Persistence.pdb
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\obj\Debug\IQ.Santos.Ngo.Beertap.Persistence.Beertap_04012016.resources
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\obj\Debug\IQ.Santos.Ngo.Beertap.Persistence.csproj.GenerateResource.Cache
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\obj\Debug\IQ.Santos.Ngo.Beertap.Persistence.dll
+C:\Users\Santos.Ngo\documents\visual studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\obj\Debug\IQ.Santos.Ngo.Beertap.Persistence.pdb
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Persistence\obj\Debug\IQ.Santos.Ngo.Beertap.Persistence.csprojResolveAssemblyReference.cache

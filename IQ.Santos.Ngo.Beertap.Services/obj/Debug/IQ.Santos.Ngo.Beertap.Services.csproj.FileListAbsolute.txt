@@ -1,0 +1,12 @@
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\IQ.Santos.Ngo.Beertap.Services.dll.config
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\IQ.Santos.Ngo.Beertap.Services.dll
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\IQ.Santos.Ngo.Beertap.Services.pdb
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\EntityFramework.dll
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\IQ.Santos.Ngo.Beertap.Persistence.dll
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\IQ.Santos.Ngo.Beertap.Persistence.pdb
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\EntityFramework.xml
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\obj\Debug\IQ.Santos.Ngo.Beertap.Services.csprojResolveAssemblyReference.cache
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\obj\Debug\IQ.Santos.Ngo.Beertap.Services.dll
+C:\Users\Santos.Ngo\Documents\Visual Studio 2015\Projects\IQ.Santos.Ngo.Beertap\IQ.Santos.Ngo.Beertap.Services\obj\Debug\IQ.Santos.Ngo.Beertap.Services.pdb

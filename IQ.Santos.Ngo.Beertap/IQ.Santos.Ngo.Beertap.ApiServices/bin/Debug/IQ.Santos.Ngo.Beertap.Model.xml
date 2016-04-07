@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IQ.Santos.Ngo.Beertap.Model</name>
+    </assembly>
+    <members>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.BeerTap">
+            <summary>
+            class that represents beer tap
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.BeerTap.OfficeId">
+            <summary>
+            gets or sets the office id (location)
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.BeerTap.KegStatus">
+            <summary>
+            gets or sets the status of Keg
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.BeerTap.KegId">
+            <summary>
+            gets or sets the kegid where the beertap is linked to
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.BeerTap.Id">
+            <summary>
+            gets or sets the identifier of beertap
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.Keg">
+            <summary>
+            class that represents the beer container
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.Keg.Maximumcapacity">
+            <summary>
+            maximum capacity of the tank
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.Keg.MinimumCapacityIndicator">
+            <summary>
+            warning level
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Keg.Id">
+            <summary>
+            represents the identifier
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Keg.BeerBrand">
+            <summary>
+            the brand of beer inside this keg
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Keg.VolumeLeft">
+            <summary>
+            the volume left in the tank
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Keg.RemainingVolume">
+            <summary>
+            the remaining volume
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Keg.BeerTapId">
+            <summary>
+            gets or sets the beertapid where this keg is attached to
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.KegLevel">
+            <summary>
+            custom type that describes the level of keg
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.KegLevel.New">
+            <summary>
+            New or full
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.KegLevel.GoingDown">
+            <summary>
+            it means that the keg is no longer full
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.KegLevel.AlmostEmpty">
+            <summary>
+            it means that the keg reaches the 100 ml mark
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.KegLevel.SheIsDry">
+            <summary>
+            0 milliliter in the keg
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.LinkRelations">
+            <summary>
+            iQmetrix link relation names
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.LinkRelations.Office">
+            <summary>
+            link relation to describe the Office resource.
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.LinkRelations.Tap">
+            <summary>
+            link relation to describe the Tap resource.
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.LinkRelations.Keg">
+            <summary>
+            link relation to describe the Keg resource.
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.LinkRelations.NewGlass">
+            <summary>
+            link relation to pull an amount of beer.
+            </summary>
+        </member>
+        <member name="F:IQ.Santos.Ngo.Beertap.Model.LinkRelations.ReplaceKeg">
+            <summary>
+            link relation to replace the keg.
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.Office">
+            <summary>
+            class that represents the IQMetrix offices i.e Regina, Vancouver, Winnipeg, Davidson, Manila.
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Office.Id">
+            <summary>
+            id represents the location or office name, to make it straight forward.
+            </summary>       
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.Office.BeerTaps">
+            <summary>
+            list of beertaps on the office
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.SupportResources.NewGlass">
+            <summary>
+            action resource that describes action of getting new glass from a tap
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.SupportResources.NewGlass.Id">
+            <summary>
+            primary key
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.SupportResources.NewGlass.Volume">
+            <summary>
+            gets or sets the volume
+            </summary>
+        </member>
+        <member name="T:IQ.Santos.Ngo.Beertap.Model.SupportResources.ReplaceKeg">
+            <summary>
+            represents the replacekeg parameter
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.SupportResources.ReplaceKeg.Id">
+            <summary>
+            gets or sets the id
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.SupportResources.ReplaceKeg.NewBeerBrand">
+            <summary>
+            brand of beer to replace the empty keg
+            </summary>
+        </member>
+        <member name="P:IQ.Santos.Ngo.Beertap.Model.SupportResources.ReplaceKeg.NewVolume">
+            <summary>
+            volume of Keg to replace the empty keg
+            </summary>
+        </member>
+    </members>
+</doc>
